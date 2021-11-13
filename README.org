@@ -1,0 +1,4 @@
+* Automatic Differentiation for Chez Scheme
+This library contains utilities for [[https://en.wikipedia.org/wiki/Automatic_differentiation][Automatic Differentiation]] in chez
+scheme. This package relies on [[https://srfi.schemers.org/srfi-64/srfi-64.html][SRFI 64]] and [[https://github.com/LiamPack/chez-matrices][chez-matrices]] for testing and
+computation respectively. 
