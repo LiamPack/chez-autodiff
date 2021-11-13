@@ -1,7 +1,7 @@
 #!r6rs ; -*- mode: scheme; coding: utf-8 -*-
 (import (akku format manifest))
 
-(akku-package ("chez-autodiff" "0..0-alpha.0")
+(akku-package ("chez-autodiff" "0.1.0-alpha.0")
   (synopsis "Automatic differentiation in scheme")
   (authors "Liam Packer")
   (license "MIT")
